@@ -74,5 +74,4 @@ After cleaning:
 **Muhammad Umar Saleem**  
 Electrical Engineering Graduate (June 2025)  
 Aspiring Data Scientist | ML Enthusiast  
-[LinkedIn](www.linkedin.com/in/umarsaleem49)
 
