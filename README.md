@@ -71,8 +71,8 @@ After cleaning:
 
 ## 📫 Contact
 
-**Muhammad Umer**  
+**Muhammad Umar Saleem**  
 Electrical Engineering Graduate (June 2025)  
 Aspiring Data Scientist | ML Enthusiast  
-[LinkedIn](www.linkedin.com/in/umarsaleem49) | Portfolio coming soon
+[LinkedIn](www.linkedin.com/in/umarsaleem49)
 
