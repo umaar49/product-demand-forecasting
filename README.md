@@ -8,7 +8,7 @@ This project predicts the demand level (High, Medium, Low) of products using rea
 
 - `main_notebook.ipynb` – Full Jupyter Notebook with code, EDA, and model
 - `Product_Demand_Forcasting.pdf` – Final report of the project
-- `dataset.csv` – Dataset used for training the model *(source credited below)*
+- `dataset.csv` – Dataset used for training the model 
 - `README.md` – Project overview and guide
 
 ---
